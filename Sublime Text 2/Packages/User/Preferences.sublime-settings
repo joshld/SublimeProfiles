@@ -1,0 +1,24 @@
+{
+	// "theme": "Soda Light.sublime-theme",
+	// "theme": "Soda Dark.sublime-theme",
+	// "theme": "Phoenix Dark.sublime-theme",
+	// "theme": "Minimal.sublime-theme",
+	// "theme": "Minimal Dark.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
+
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	// Monokai color scheme (SublimeText's default) with Flatland background color
+	// "color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+
+	// square file tabs instead of rounded corners
+	// "flatland_square_tabs": true,
+
+	// Ability to change row height of sidebar tree
+	// Options: xsmall, small, medium, large, xlarge
+	"flatland_sidebar_tree_xsmall" : true,
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
